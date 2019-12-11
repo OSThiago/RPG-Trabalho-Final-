@@ -1,0 +1,9 @@
+Lacaio
+150
+10
+Esqueleto
+200
+15
+Alecchesi
+400
+25

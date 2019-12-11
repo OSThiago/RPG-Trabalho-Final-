@@ -1,0 +1,15 @@
+Cloud_Strife
+Lutador
+100
+10
+35
+Yuna
+Mago
+50
+15
+65
+Snow
+Tank
+150
+25
+23
